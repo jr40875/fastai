@@ -1,11 +1,11 @@
-name: fastbook
+name: fastaiNew
 channels:
     - fastai
     - pytorch
     - defaults
 dependencies:
-  - python>=3.6
-  - pytorch>=1.6
+  - python>=3.8
+  - pytorch>=1.4
   - torchvision
   - pip
   - pip:
